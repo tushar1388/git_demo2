@@ -1,11 +1,11 @@
 <html>
 <body>
 <h1> Main line </h1>
-<h1> featureA </h1>
-<<<<<<< HEAD
 <h1> featureB </h1>
-=======
+<<<<<<< HEAD
 <h1> featureA_2 </h1>
->>>>>>> featureA
+=======
+<h1> featureB_2 </h1>
+>>>>>>> featureB
 </body>
 </html>
